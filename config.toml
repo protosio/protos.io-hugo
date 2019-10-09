@@ -1,3 +1,8 @@
 baseURL = "https://protos.io/"
 languageCode = "en-us"
 title = "Protos - The path to digital sovereignty"
+
+[params]
+    releasesURL = "https://releases.protos.io/"
+    codeURL = "https://code.protos.io/"
+    statsDomain = "stats.protos.io"
