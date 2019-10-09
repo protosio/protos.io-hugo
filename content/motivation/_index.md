@@ -107,7 +107,7 @@ It all boils down to convenience, and how easily users can adopt and switch to u
 Making self-hosting a viable alternative to centralised services will bring immediate tangible advantages to the people that adopt it, but there are potential long term benefits that can affect innovation in the digital world: governance or even democracy itself.
 
 In the short term, using a self-hosting platform like Protos could confer a person the following benefits:  
-    **A single identity**. The user’s identity would be stable over time, since it would be connected to a domain name that the user owns and controls.  
+**A single identity**. The user’s identity would be stable over time, since it would be connected to a domain name that the user owns and controls.  
 **Increased privacy**. Since a user’s data would be under their own control, 3rd parties would not be able to access it without explicit sharing by the user.  
 **More control and flexibility**. The data and applications that are self-hosted can be easily backed-up and moved to a new hosting provider or an Internet connected computer at home.  
 
