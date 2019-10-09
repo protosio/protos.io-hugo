@@ -106,13 +106,10 @@ It all boils down to convenience, and how easily users can adopt and switch to u
 
 Making self-hosting a viable alternative to centralised services will bring immediate tangible advantages to the people that adopt it, but there are potential long term benefits that can affect innovation in the digital world: governance or even democracy itself.
 
-In the short term, using a self-hosting platform like Protos could confer a person the following benefits:
-
-A single identity. The user’s identity would be stable over time, since it would be connected to a domain name that the user owns and controls.
-
-Increased privacy. Since a user’s data would be under their own control, 3rd parties would not be able to access it without explicit sharing by the user.
-
-More control and flexibility. The data and applications that are self-hosted can be easily backed-up and moved to a new hosting provider or an Internet connected computer at home.
+In the short term, using a self-hosting platform like Protos could confer a person the following benefits:  
+    **A single identity**. The user’s identity would be stable over time, since it would be connected to a domain name that the user owns and controls.  
+**Increased privacy**. Since a user’s data would be under their own control, 3rd parties would not be able to access it without explicit sharing by the user.  
+**More control and flexibility**. The data and applications that are self-hosted can be easily backed-up and moved to a new hosting provider or an Internet connected computer at home.  
 
 In the grand scheme of things, a world in which more people used self-hosting platforms with strong security and cryptographic primitives would lead to a more geographically diverse and resilient Internet, but also, one that changes the dynamics of state-sponsored attacks on the Internet infrastructure. An Internet where communications are encrypted and have a diverse geographical distribution makes those kinds of attacks more difficult, and requires them to be more targeted. This doesn’t totally strip law enforcement of their tools to pursue criminal activity, but it makes it difficult for them to use the kind of mass surveillance tools revealed by the Snowden<sup>[\[14\]](#ftnt14)</sup> leaks. Countries that keep a strong grip over the online behaviour of their populations would find it much more difficult to do so, and in tumultuous situations like uprisings or revolts against oppressive governments, people would have much more resilient tools to coordinate with.
 
