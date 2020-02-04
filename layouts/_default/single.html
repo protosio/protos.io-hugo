@@ -6,9 +6,15 @@
 
   <body>
 
-  {{ partial "header.html" . }}
+  {{ partial "header-single.html" . }}
 
   {{ block "main" . }}
+         <!-- contains the content container -->
+         <section class="contentContainer">
+          <div class="container">
+              {{ .Content }}
+          </div>
+        </section>
   {{ end }}
 
   {{ partial "footer.html" . }}

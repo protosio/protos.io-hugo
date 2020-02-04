@@ -1,3 +1,7 @@
+---
+title: Motivation
+---
+
 ## Protos - own your digital identity and data by self-hosting
 
 &nbsp;
