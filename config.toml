@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "Protos - The path to digital sovereignty"
 
 [params]
-    releasesURL = "/releases/"
+    downloadURL = "/download/"
     codeURL = "https://code.protos.io/"
     statsDomain = "stats.protos.io"
