@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
-  {{ partial "head.html" . }}
-
-  <body>
-
-  {{ partial "header.html" . }}
+{{ define "main" }}
 
     <!-- contains the main heading, buttons & dashboard pic -->
     <section class="ctaContainer">
@@ -143,8 +135,4 @@
       </div>
     </section>
 
-
-  {{ partial "footer.html" . }}
-
-  </body>
-</html>
+{{ end }}
