@@ -160,6 +160,15 @@ a:hover {
   width: 100%;
 }
 
+.headerContainer-image {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .headerContainer-image {
+    width: 40%;
+  }
+}
 /* ctaContainer */
 
 .ctaContainer {
