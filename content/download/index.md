@@ -14,7 +14,7 @@ This page contains only the latest `cli` release, which is `0.0.0-dev.1`
 
  * macOS - [protos-cli_0.0.0-dev.1_darwin](https://releases.protos.io/cli/0.0.0-dev.1/protos-cli_0.0.0-dev.1_darwin)
  * Linux - [protos-cli_0.0.0-dev.1_linux](https://releases.protos.io/cli/0.0.0-dev.1/protos-cli_0.0.0-dev.1_linux)
- * Windows - [protos-cli_0.0.0-dev.1_windows](https://releases.protos.io/cli/0.0.0-dev.1/protos-cli_0.0.0-dev.1_windows)
+ * Windows - [protos-cli_0.0.0-dev.1_windows.exe](https://releases.protos.io/cli/0.0.0-dev.1/protos-cli_0.0.0-dev.1_windows.exe)
 
 ##### Server ISO
 
