@@ -85,9 +85,10 @@ Self-hosting is not new, and organisations and technically inclined hobbyists ha
 
 [Protos](https://protos.io) can be considered a new and 3rd category of (virtual) user devices, next to the smartphone and personal computer. This software can run on any computer that acts as a server (always on and always connected to the Internet, like a VPS[\[9\]](#ftnt9) or low power computer at home) and becomes a personal and private “cloud” for the user, one that complements the users other devices just like current Internet services do. As with a smartphone or computer, a user can easily download, install, and run applications on the Protos self-hosting platform. But the type of applications that run on it differs from the ones running on smartphones or personal computers; they could be web applications that can be loaded via the browser, similar to a Google Docs document or a Trello board, but could also just be “server” type software that provides functionality to an application on the smartphone or personal computer, like an email server or VPN<sup>[\[10\]](#ftnt10)</sup> server.  
 <br />
-
-<img src="/img/self-hosting.png" alt="Self-hosting diagram" width="500" id="fig1"/>
+ 
+<img src="/img/self-hosting.png" alt="Self-hosting diagram" id="fig1"/>
 Figure 1.  
+
 <br />
 
 Each Protos instance is identified by a domain name (e.g. domain.com), and can service one or more users, a user will be identified by his <username>@<domain name>(e.g. user@domain.com), similarly to an email address. Since users have to register a domain when using a self-hosting platform like Protos, they have legal ownership over that domain<sup>[\[11\]](#ftnt11)</sup>, so their identity is owned by themselves, without being dependent on a 3rd party organisation. Applications running on a Protos instance can authenticate and authorize users belonging to that instance, but also, users belonging to other Protos instances.

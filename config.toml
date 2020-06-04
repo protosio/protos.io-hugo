@@ -2,6 +2,9 @@ baseURL = "https://protos.io/"
 languageCode = "en-us"
 title = "Protos - The path to digital sovereignty"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
     downloadURL = "/download/"
     codeURL = "https://code.protos.io/"
