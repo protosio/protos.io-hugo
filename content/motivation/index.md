@@ -29,7 +29,7 @@ The internet is one of the most important human creations, and it has changed ho
 Is there a way to achieve digital sovereignty for an individual through a grassroots movement without relying on the existing power meta structures? Protos will focus on [self-hosting](#self-hosting-a-way-to-decentralize-the-internet-and-attain-digital-sovereignty), a promising approach to using Internet applications which is discussed in more detail in the upcoming sections.  
 <br />
 
-##### What are the goals of the Protos?
+##### What are the goals of Protos?
 <br />
 Protos will pursue its ideology by setting the following goals:
 
@@ -37,7 +37,6 @@ Protos will pursue its ideology by setting the following goals:
 *   foster a community of like-minded individuals and organisations that believe in the ethos of decentralisation, and can come together and help build the ecosystem required for [self-hosting](#self-hosting-a-way-to-decentralize-the-internet-and-attain-digital-sovereignty) to succeed.
 *   create and run an application store which will, on one side, allow users to download free or paid applications, and on the other, allow developers or application creators to reach an audience and potentially monetise their creations.
 *   create or leverage an existing cryptographic identity model that allows individuals or organisations to retain control over their online identities without relying on 3rd parties.
-*   create educational material that teaches people how to easily get all the functionality they are getting from traditional 3rd party managed Internet applications, by hosting their own.
 *   long term, incentivise hardware manufacturers to create specialised hardware for the purpose of self-hosting; hardware that can be used from home, office or a data center.
 
 At the time of writing, self-hosting is a small niche attractive only to IT hobbyists that have the necessary skills and the time to approach it. Protos’s meta goal is to change that by dramatically lowering the barrier to entry, and opening self-hosting to the average user, protecting digital sovereignty in the process.  
